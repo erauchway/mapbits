@@ -1,0 +1,78 @@
+country_name,mylab,siz,nx,ny
+United Kingdom,UK,4,0,0
+Netherlands,Netherlands,2,0,0
+Belgium,Belgium,2,0,0
+Luxembourg,Luxembourg,2,0,0
+France,France,4,0,0
+Switzerland,Switzerland,2,0,0
+Spain,Spain,2,0,0
+Portugal,Portugal,2,0,0
+Germany (Prussia),Germany,4,0,0
+Austria-Hungary,Austria-Hungary,4,0,0
+Italy/Sardinia,Italy,2,0,0
+Malta,Malta,2,0,0
+Albania,Albania,2,0,0
+Serbia,Serbia,2,0,0
+Montenegro,Montenegro,2,0,0
+Greece,Greece,2,0,0
+Bulgaria,Bulgaria,2,0,0
+Rumania,Rumania,2,0,-50000
+Russia (Soviet Union),Russia,7,-1500000,-2500000
+Sweden,Sweden,2,0,0
+Norway,Norway,2,0,0
+Denmark,Denmark,2,0,0
+Iceland,Iceland,2,0,0
+Cape Verde,Cape Verde,1,0,0
+Guinea-Bissau,Guinea-Bissau,1,0,0
+Equatorial Guinea,Equatorial Guinea,1,0,0
+Gambia,Gambia,1,0,0
+Mali,Mali,1,0,0
+Senegal,Senegal,1,0,0
+Benin,Benin,1,0,0
+Mauritania,Mauritania,1,0,0
+Niger,Niger,1,0,0
+Cote D'Ivoire,Cote D'Ivoire,1,0,0
+Guinea,Guinea,1,0,0
+Liberia,Liberia,1,0,0
+Sierra Leone,Sierra Leone,1,0,0
+Ghana,Ghana,1,0,0
+German Togoland,Togoland,1,0,0
+Kamerun,Kamerun,1,0,0
+Nigeria,Nigeria,1,0,0
+Gabon,Gabon,1,0,0
+Central African Republic,Central African Republic,1,0,0
+Chad,Chad,1,0,0
+Congo,Congo,1,0,0
+"Congo, Democratic Republic of (Zaire)",Congo,1,0,0
+Uganda,Uganda,1,0,0
+Kenya,Kenya,1,0,0
+Tanzania (Tanganyika),Tanzania,1,0,0
+Zanzibar,Zanzibar,1,0,0
+British Somaliland (Somaliland Republic),Somaliland,1,0,0
+Djibouti,Djibouti,1,0,0
+Ethiopia,Ethiopia,1,0,0
+Eritrea,Eritrea,1,0,0
+Angola,Angola,1,0,0
+Mozambique,Mozambique,1,0,0
+Zambia,Zambia,1,0,0
+Zimbabwe (Rhodesia),Rhodesia,1,0,0
+Malawi,Malawi,1,0,0
+South Africa,South Africa,1,0,0
+Namibia,Namibia,1,0,0
+Lesotho,Lesotho,1,0,0
+Botswana,Botswana,1,0,0
+Swaziland (Eswatini),Swaziland,1,0,0
+Madagascar (Malagasy),Madagascar,1,0,0
+Reunion,Reunion,1,0,0
+Mauritius,Mauritius,1,0,0
+Morocco,Morocco,2,50000,0
+Spanish Morocco,Spanish Morocco,2,475000,325000
+Spanish West Africa,Spanish West Africa,1,0,0
+Algeria,Algeria,2,0,300000
+Tunisia,Tunisia,2,0,0
+Libya,Libya,2,0,200000
+Sudan,Sudan,1,0,0
+Iran (Persia),Persia,1,0,0
+Turkey (Ottoman Empire),Turkey,4,-700000,325000
+Egypt,Egypt,2,75000,350000
+Cyprus,Cyprus,2,0,0
